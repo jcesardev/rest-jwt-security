@@ -1,4 +1,5 @@
-package mx.cuu.dev.restjwtsecurity;
+
+package mx.cuu.dev.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
